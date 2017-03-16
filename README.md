@@ -33,7 +33,7 @@ To complete this lab, you'll need to:
 - Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
 - Indent nested elements to increase your code's readability
 
-### Resources
+### Resources		
 
 - Starter code can be found inside of the "starter_code" folder for this assignment.
 - [Box Model explanation from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
